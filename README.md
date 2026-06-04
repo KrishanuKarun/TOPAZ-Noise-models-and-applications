@@ -86,7 +86,7 @@ This framework is the practical implementation of a three-part theoretical stack
 
 1. **The Theory**: [CTI Framework](https://doi.org/10.5281/zenodo.20516266) - *A Continuous Topological Interpretation of Quantum Circuits.*
 2. **The Operator**: [PTE/UPTE](https://doi.org/10.5281/zenodo.20516615) - *Derivation of Parametric Trotter Expressions.*
-3. **The Design**: [TOPAZ v2](https://doi.org/10.5281/zenodo.19214449) - *Establishing Topology Optimization as a Paradigm for Design.*
+3. **The Design**: [TOPAZ v2](https://doi.org/10.5281/zenodo.20518258) - *Establishing Topology Optimization as a Paradigm for Design.*
 
 ---
 
