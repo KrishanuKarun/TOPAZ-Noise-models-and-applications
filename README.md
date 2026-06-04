@@ -39,7 +39,7 @@ TOPAZ v2 is a modular research framework. It follows a hybrid digital-twin optim
 4. **Layered Stacking**: Synthesize ZNE Richardson extrapolation on top of the TOPAZ-optimized parameters.
 5. **Hardware Validation**: Deploy to live QPU (e.g., `ibm_fez`) for Direct Fidelity Estimation (DFE).
 
-### Procedural Implementation
+### Procedural Imple
 
 ```python
 # PROCEDURAL LOGIC FOR TOPAZ V2 PIPELINE
