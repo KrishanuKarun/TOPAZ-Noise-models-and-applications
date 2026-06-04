@@ -4,7 +4,7 @@
 
 TOPAZ v2 is a high-performance research framework that treats quantum circuits not as discrete gate sequences, but as **continuous topological architectures**. By navigating the parameter manifold through a $O(2^N)$ Tensor-Dot Engine and a Dual-MMA optimizer, it identifies noise-resilient "Structural Wells" in the landscape. Validated on 156-qubit IBM Heron hardware with a $10.71\times$ fidelity gain, TOPAZ establishes a new frontier for intrinsic resilience in Variational Quantum Algorithms.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19214449.svg)](https://doi.org/10.5281/zenodo.19214449)
+[![Main: TOPAZ_V2](https://img.shields.io/badge/Main-TOPAZ-red)](https://doi.org/10.5281/zenodo.20518258)
 [![Theory: CTI](https://img.shields.io/badge/Theory-CTI-blue)](https://doi.org/10.5281/zenodo.20516266)
 [![Operator: PTE](https://img.shields.io/badge/Operator-PTE-green)](https://doi.org/10.5281/zenodo.20516615)
 
