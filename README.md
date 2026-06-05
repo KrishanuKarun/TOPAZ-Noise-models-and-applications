@@ -1,4 +1,4 @@
-# TOPAZ v2: Quantum Topology Optimization Framework
+# TOPAZ v2: Passive and Modular Error Mitigation through Topology Optimization
 
 **Establishing Topology Optimization as a Paradigm for Noise-Resilient Quantum Circuit Design.**
 
